@@ -38,15 +38,16 @@ _Network Engineer based in Miami,FL_ 🇺🇸 <br>
 
 **Microsoft Azure Fundamentals** AZ-900<br>
 [Microsoft](https://www.credly.com/badges/4b07da4c-66b0-4c97-8b52-03dbb2e8098b/public_url) <br> 2023
+<br>
 <picture>
 <img src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ900 Badge" width="80"/>
 </picture>
-<br>
+<br><br>
 
 **Cisco Certified Network Associate** CCNA<br>
 [CISCO](https://www.credly.com/badges/859e469a-2e86-4f72-bab7-096a30c15229/public_url) <br> 
-2024 
+2024 <br>
 <picture>
 <img src="https://images.credly.com/size/220x220/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" alt="CCNA Badge" width="80"/> 
 </picture>
-<br>
+<br><br>
