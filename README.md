@@ -1,17 +1,18 @@
 # Daniel Gonzalez
 
-_Network Engineer based in Miami,FL🇺🇸_ <br>
+_Network Engineer based in Miami,FL 🇺🇸_ <br>
 
 [Email](mailto:slash9492@gmail.com) / [LinkedIn](https://www.linkedin.com/in/daniel-j-gonzalez/)
 
-## 👩🏼‍💻 Engineering Experience
+## 👨🏻‍💻 Experience
 
-**Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
+**Network Engineer** @ [ICG](https://www.icgi.com/) _(Dec 2017 - Present)_ <br>
+  - Provided Technical Support to over 2000 users (Setting up new user accounts, new devices, joining new devices to the enterprise   - domain, setting up Microsoft Office, custom apps, printers and other hardware).
+  - Managed on-premises and cloud Infrastructure (this includes servers, network, and security infrastructure).
+  - Migrated on-premises infrastructure to Azure.
+  - Managed Microsoft 365 licensing.
+  - Managed Microsoft 365 services: SharePoint, Teams Groups and Channels, Exchange Online, Azure Virtual Desktop, Microsoft Entra ID.
+  - Created new Documentation and Standard Operating Procedures to help junior engineers and users.
 <br><br>
 
 **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
