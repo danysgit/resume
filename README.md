@@ -1,8 +1,8 @@
-# Carolyn Stransky
+# Daniel Gonzalez
 
-_Software engineer and journalist based in Berlin 🇩🇪_ <br>
+_Network Engineer based in Miami,FL🇺🇸_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:slash9492@gmail.com) / [LinkedIn](https://www.linkedin.com/in/daniel-j-gonzalez/)
 
 ## 👩🏼‍💻 Engineering Experience
 
