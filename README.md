@@ -18,7 +18,7 @@ _Network Engineer based in Miami,FL_ 🇺🇸 <br>
 **IT Support Specialist** @ [IPCOOP](https://www.ipcoop.com/) _(2017)_ <br>
   - Provided technical support to over 100 users.
   - Managed on-premises Exchange Server.
-  - Managde on-premises Windows Servers.
+  - Managed on-premises Windows Servers.
   - Deployment and management of an MDM solution for macOS devices.
   - Migrated Exchange 2010 server to Microsoft 365.
 <br><br>
