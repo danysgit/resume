@@ -29,16 +29,16 @@ _Network Engineer based in Miami,FL 🇺🇸_ <br>
 🇨🇺 **Spanish**
 <br><br>
 
-## 👩🏼‍🎓 Education
+## 🎓 Education
 
-**Universidad Tecnológica de La Habana "Jose Antonio Echeverría**<br>
+**Universidad Tecnológica de La Habana "Jose Antonio Echeverría"**<br>
 [Information Technology](https://cujae.edu.cu/) - La Habana, Cuba _(2011 -  2016)_ <br>
 
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
+## 📜 Certifications
 
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
+**Microsoft Azure Fundamentals** AZ-900<br>
+[Microsoft](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) <br> 2023
 
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+**Cisco Certified Network Associate** CCNA<br>
+[CISCO](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) <br> 
+2024
