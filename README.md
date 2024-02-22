@@ -33,7 +33,7 @@ _Network Engineer based in Miami,FL 🇺🇸_ <br>
 
 **Universidad Tecnológica de La Habana "Jose Antonio Echeverría"**<br>
 [Information Technology](https://cujae.edu.cu/) - La Habana, Cuba _(2011 -  2016)_ <br>
-
+<br><br>
 ## 📜 Certifications
 
 **Microsoft Azure Fundamentals** AZ-900<br>
