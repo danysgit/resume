@@ -1,6 +1,6 @@
 # Daniel Gonzalez
 
-_Network Engineer based in Miami,FL 🇺🇸_ <br>
+_Network Engineer based in Miami,FL_ 🇺🇸 <br>
 
 [Email](mailto:slash9492@gmail.com) / [LinkedIn](https://www.linkedin.com/in/daniel-j-gonzalez/)
 
