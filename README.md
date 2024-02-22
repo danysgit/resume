@@ -40,6 +40,5 @@ _Network Engineer based in Miami,FL 🇺🇸_ <br>
 [Microsoft](https://www.credly.com/badges/4b07da4c-66b0-4c97-8b52-03dbb2e8098b/public_url) <br> 2023
 
 **Cisco Certified Network Associate** CCNA<br>
-[CISCO](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) <br> 
+[CISCO](https://www.credly.com/badges/859e469a-2e86-4f72-bab7-096a30c15229/public_url) <br> 
 2024
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="859e469a-2e86-4f72-bab7-096a30c15229" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
