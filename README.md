@@ -5,6 +5,8 @@ _Network Engineer based in Miami,FL_ 🇺🇸 <br>
 [Email](mailto:slash9492@gmail.com) / [LinkedIn](https://www.linkedin.com/in/daniel-j-gonzalez/)
 
 ## 👨🏻‍💻 Experience
+**Cloud Engineer** @ [Flagler Technologies](https://www.flagler.io/) _(2024)_ <br>
+
 
 **Network Engineer** @ [ICG](https://www.icgi.com/) _(2017 - Present)_ <br>
   - Provided Technical Support to over 2000 users (Setting up new user accounts, new devices, joining new devices to the enterprise domain, setting up Microsoft Office, custom apps, printers and other hardware).
