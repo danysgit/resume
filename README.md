@@ -8,7 +8,7 @@ _Network Engineer based in Miami,FL_ 🇺🇸 <br>
 **Cloud Engineer** @ [Flagler Technologies](https://www.flagler.io/) _(2024)_ <br>
 
 
-**Network Engineer** @ [ICG](https://www.icgi.com/) _(2017 - Present)_ <br>
+**Network Engineer** @ [ICG](https://www.icgi.com/) _(2017 - 2024)_ <br>
   - Provided Technical Support to over 2000 users (Setting up new user accounts, new devices, joining new devices to the enterprise domain, setting up Microsoft Office, custom apps, printers and other hardware).
   - Managed on-premises and cloud Infrastructure (this includes servers, network, and security infrastructure).
   - Migrated on-premises infrastructure to Azure.
