@@ -1,6 +1,6 @@
 # Daniel Gonzalez
 
-_Network Engineer based in Miami,FL_ 🇺🇸 <br>
+_Microsoft Azure Cloud Engineer based in Miami,FL_ 🇺🇸 <br>
 
 [Email](mailto:slash9492@gmail.com) / [LinkedIn](https://www.linkedin.com/in/daniel-j-gonzalez/)
 
@@ -51,5 +51,13 @@ _Network Engineer based in Miami,FL_ 🇺🇸 <br>
 2024 <br>
 <picture>
 <img src="https://images.credly.com/size/220x220/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" alt="CCNA Badge" width="80"/> 
+</picture>
+<br><br>
+
+**Identity and Access Administrator Associate** SC-300<br>
+[Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/DanielJGonzalez-3005/CCF3439F7CAA1055?sharingId=B2F1FECAEA66312D) <br> 2023
+<br>
+<picture>
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="SC300 Badge" width="80"/>
 </picture>
 <br><br>
