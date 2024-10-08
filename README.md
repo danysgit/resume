@@ -61,5 +61,3 @@ _Microsoft Azure Cloud Engineer based in Miami,FL_ 🇺🇸 <br>
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="SC300 Badge" width="80"/>
 </picture>
 <br><br>
-
-test
