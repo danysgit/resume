@@ -55,7 +55,7 @@ _Microsoft Azure Cloud Engineer based in Miami,FL_ 🇺🇸 <br>
 <br><br>
 
 **Identity and Access Administrator Associate** SC-300<br>
-[Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/DanielJGonzalez-3005/CCF3439F7CAA1055?sharingId=B2F1FECAEA66312D) <br> 2023
+[Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/DanielJGonzalez-3005/CCF3439F7CAA1055?sharingId=B2F1FECAEA66312D) <br> 2024
 <br>
 <picture>
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="SC300 Badge" width="80"/>
