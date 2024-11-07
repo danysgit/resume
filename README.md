@@ -61,3 +61,11 @@ _Microsoft Azure Cloud Engineer based in Miami,FL_ 🇺🇸 <br>
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="SC300 Badge" width="80"/>
 </picture>
 <br><br>
+
+**Criminal Justice Information Services Security and Privacy** <br>
+CJIS Online <br> 2024 
+<br>
+<picture>
+<img src="https://github.com/danysgit/WorkUtilities/blob/main/images/CJIS%20Certification%20Badge.png" alt="CJIS Badge" width="80"/>
+</picture>
+
