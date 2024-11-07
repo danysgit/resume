@@ -66,6 +66,6 @@ _Microsoft Azure Cloud Engineer based in Miami,FL_ 🇺🇸 <br>
 CJIS Online <br> 2024 
 <br>
 <picture>
-<img src="https://github.com/danysgit/WorkUtilities/blob/main/images/CJIS%20Certification%20Badge.png" alt="CJIS Badge" width="80"/>
+<img src="https://raw.githubusercontent.com/danysgit/resume/refs/heads/main/images/CJIS%20Certification%20Badge.png" alt="CJIS Badge" width="80"/>
 </picture>
 
