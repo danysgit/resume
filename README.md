@@ -68,4 +68,12 @@ CJIS Online <br> 2024
 <picture>
 <img src="https://raw.githubusercontent.com/danysgit/resume/refs/heads/main/images/CJIS%20Certification%20Badge.png" alt="CJIS Badge" width="80"/>
 </picture>
+<br><br>
 
+**Azure Administrator Associate** AZ-104<br>
+[Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/DanielJGonzalez-3005/CCF3439F7CAA1055?sharingId=B2F1FECAEA66312D) <br> 2025
+<br>
+<picture>
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="AZ104 Badge" width="80"/>
+</picture>
+<br><br>
