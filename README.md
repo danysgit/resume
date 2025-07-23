@@ -5,10 +5,17 @@ _Microsoft Azure Cloud Engineer based in Miami,FL_ 🇺🇸 <br>
 [Email](mailto:slash9492@gmail.com) / [LinkedIn](https://www.linkedin.com/in/daniel-j-gonzalez/)
 
 ## 👨🏻‍💻 Experience
-**Cloud Engineer** @ [Flagler Technologies](https://www.flagler.io/) _(2024)_ <br>
+**Cloud Engineer** @ [Flagler Technologies](https://www.flagler.io/) _(2023 - Present)_ <br>
+  - As a Cloud Engineer my role consists in leading and executing cloud migration projects for our clients. During these past two years I’ve had the opportunity to work with all kinds of organizations (public and private) looking to migrate infrastructure and/or services to Microsoft Azure/ Microsoft 365.
+  - During this time window I have successfully executed over 30 migration projects. Here are some of the highlights:
+    - Merger/ Cloud Lift and shift of 4 companies with more than 500 users in total into a single Microsoft 365 tenant. Included implementing a single cloud identity for all users, migrating all their information from their previous on-prem and cloud infrastructure into a single Microsoft tenant and later completely decommission their on-premises infrastructure.
+    - Migration from Google Workspace to Microsoft 365 for multiple clients which included migrating all the data from Google to Microsoft plus enrolling all their devices in Microsoft Intune for Management and setting up policies to manage them.
+    - Lift and shift projects for clients looking to migrate to the cloud/hybrid. This is one of the most common projects I handle. Companies looking to enable their employees to work remotely and partially or totally decommission their on-premises infrastructure. As such I work with them to migrate all their resources to the cloud and guarantee not only their ability to be mobile and secure but to also protect them against natural disasters like hurricanes and floodings (which happens often in South Florida).
+  - All these processes require strong coordination, communication and planning since every client is different and it requires for me to be involved with their entire technology stack.
+  - I approach every problem with fresh eyes, looking for the most efficient and secure solution. Taking into consideration the needs of every organization, their goals and their satisfaction.
+<br><br>
 
-
-**Network Engineer** @ [ICG](https://www.icgi.com/) _(2017 - 2024)_ <br>
+**Network Engineer** @ [ICG](https://www.icgi.com/) _(2017 - 2023)_ <br>
   - Provided Technical Support to over 2000 users (Setting up new user accounts, new devices, joining new devices to the enterprise domain, setting up Microsoft Office, custom apps, printers and other hardware).
   - Managed on-premises and cloud Infrastructure (this includes servers, network, and security infrastructure).
   - Migrated on-premises infrastructure to Azure.
