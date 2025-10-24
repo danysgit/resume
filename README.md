@@ -84,3 +84,11 @@ CJIS Online <br> 2024
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="AZ104 Badge" width="80"/>
 </picture>
 <br><br>
+
+**Microsoft 365 Administrator Expert** MS-102<br>
+[Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/DanielJGonzalez-3005/4F5EE21AD71AE4E0?sharingId=B2F1FECAEA66312D) <br> 2025
+<br>
+<picture>
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="MS102 Badge" width="80"/>
+</picture>
+<br><br>
