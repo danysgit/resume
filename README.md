@@ -46,7 +46,7 @@ _Microsoft Azure Cloud Engineer based in Miami,FL_ 🇺🇸 <br>
 ## 📜 Certifications
 
 **Microsoft Azure Fundamentals** AZ-900<br>
-[Microsoft](https://www.credly.com/badges/4b07da4c-66b0-4c97-8b52-03dbb2e8098b/public_url) <br> 2023
+[Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/DanielJGonzalez-3005/39EBEECA0E33B35C?sharingId=B2F1FECAEA66312D) <br> 2023
 <br>
 <picture>
 <img src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ900 Badge" width="80"/>
@@ -78,7 +78,7 @@ CJIS Online <br> 2024
 <br><br>
 
 **Azure Administrator Associate** AZ-104<br>
-[Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/DanielJGonzalez-3005/CCF3439F7CAA1055?sharingId=B2F1FECAEA66312D) <br> 2025
+[Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/DanielJGonzalez-3005/24FF23B534173EF0?sharingId=B2F1FECAEA66312D) <br> 2025
 <br>
 <picture>
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="AZ104 Badge" width="80"/>
