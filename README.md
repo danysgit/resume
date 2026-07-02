@@ -100,3 +100,11 @@ CJIS Online <br> 2024
 <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-specialty-badge.svg" alt="AZ140 Badge" width="80"/>
 </picture>
 <br><br>
+
+**CompTia Security+** SY0-701<br>
+[CompTia](https://www.credly.com/badges/) <br> 2026
+<br>
+<picture>
+<img src="https://images.credly.com/size/680x680/images/dbb39f01-125f-45c1-885c-38ff832cc686/blob" alt="Security+ Badge" width="80"/>
+</picture>
+<br><br>
