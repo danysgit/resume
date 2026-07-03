@@ -102,7 +102,7 @@ CJIS Online <br> 2024
 <br><br>
 
 **CompTia Security+** SY0-701<br>
-[CompTia](https://www.credly.com/badges/) <br> 2026
+[CompTia](https://www.credly.com/badges/d24960bc-748e-49ad-a647-cc1d6080284e/public_url) <br> 2026
 <br>
 <picture>
 <img src="https://images.credly.com/size/680x680/images/dbb39f01-125f-45c1-885c-38ff832cc686/blob" alt="Security+ Badge" width="80"/>
