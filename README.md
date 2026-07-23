@@ -1,7 +1,5 @@
 # Daniel Gonzalez
-
-Microsoft 365 | Azure Engineer in Miami,FL_ 🇺🇸 <br>
-
+Microsoft 365 | Azure Engineer in Miami, FL<br>
 [Email](mailto:slash9492@gmail.com) / [LinkedIn](https://www.linkedin.com/in/daniel-j-gonzalez/)
 
 ## 👨🏻‍💻 Experience
