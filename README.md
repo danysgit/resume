@@ -1,21 +1,28 @@
 # Daniel Gonzalez
 
-_Microsoft Azure Cloud Engineer based in Miami,FL_ 🇺🇸 <br>
+_Microsoft 365 | Azure Engineer in Miami,FL_ 🇺🇸 <br>
 
 [Email](mailto:slash9492@gmail.com) / [LinkedIn](https://www.linkedin.com/in/daniel-j-gonzalez/)
 
 ## 👨🏻‍💻 Experience
-**Cloud Engineer** @ [Flagler Technologies](https://www.flagler.io/) _(2023 - Present)_ <br>
-  - As a Cloud Engineer my role consists in leading and executing cloud migration projects for our clients. During these past two years I’ve had the opportunity to work with all kinds of organizations (public and private) looking to migrate infrastructure and/or services to Microsoft Azure/ Microsoft 365.
-  - During this time window I have successfully executed over 15 migration projects. Here are some of the highlights:
-    - Merger/ Cloud Lift and shift of 4 companies with more than 500 users in total into a single Microsoft 365 tenant. Included implementing a single cloud identity for all users, migrating all their information from their previous on-prem and cloud infrastructure into a single Microsoft tenant and later completely decommission their on-premises infrastructure.
-    - Migration from Google Workspace to Microsoft 365 for multiple clients which included migrating all the data from Google to Microsoft plus enrolling all their devices in Microsoft Intune for Management and setting up policies to manage them.
-    - Lift and shift projects for clients looking to migrate to the cloud/hybrid. This is one of the most common projects I handle. Companies looking to enable their employees to work remotely and partially or totally decommission their on-premises infrastructure. As such I work with them to migrate all their resources to the cloud and guarantee not only their ability to be mobile and secure but to also protect them against natural disasters like hurricanes and floodings (which happens often in South Florida).
-  - All these processes require strong coordination, communication and planning since every client is different, and it requires for me to be involved with their entire technology stack. From configuring Conditional Access Policies, DLP, Sharepoint sites, Exchange Online, licensing and pretty much everything else in their Microsoft tenant and their on-prem infrastructure.
-  - I approach every problem with fresh eyes, looking for the most efficient and secure solution. Taking into consideration the needs of every organization, their goals and their satisfaction.
-<br><br>
+**Cloud Engineer** @ [Flagler Technologies](https://www.flagler.io/) _(2024 - Present)_ <br>
 
-**Network Engineer** @ [ICG](https://www.icgi.com/) _(2017 - 2023)_ <br>
+- Lead and execute cloud migration projects for clients looking to migrate to Azure and Microsoft 365.
+- Configure and manage Microsoft 365 tenants for new and existing clients. This includes services such as:
+    - Entra ID (Configuring Access controls, Hybrid Identities, Conditional Access and Privileged Identity Management).
+    - Exchange Online (Migrate emails from other providers such as Google Workspace and Exchange On-premises, Configure DMARC, SPF and other DNS records for mail flow, configure email filtering solutions such as Barracuda and Mimecast).
+    - Microsoft Defender (Configure security policies for the organization to block Cloud apps, filter emails, and Defender for Endpoint).
+    - Sharepoint Online (migrate data from other Microsoft tenants, File and Print servers and Sharepoint on-premises, create new sites, configure access controls).
+    - Microsoft Purview (Configure and manage DLP and Data Retention policies, Conduct e-Discovery search).
+    - Microsoft Intune (Enroll Windows and Apple devices, create device and application management policies, configure Autopilot).
+- Configure and manage Azure tenants for new and existing clients. This includes services such as:
+    - Migrating on-premises servers to Azure.
+    - Managing existing IaaS for clients.
+    - Creating and managing Azure Virtual desktop environments.
+
+<br>
+
+**Network Engineer** @ [ICG](https://www.icgi.com/) _(2017 - 2024)_ <br>
   - Provided Technical Support to over 2000 users (Setting up new user accounts, new devices, joining new devices to the enterprise domain, setting up Microsoft Office, custom apps, printers and other hardware).
   - Managed on-premises and cloud Infrastructure (this includes servers, network, and security infrastructure).
   - Migrated on-premises infrastructure to Azure.
